@@ -1,5 +1,17 @@
 # Java REST API Client – WeatherMate
 
+"COMPANY": CODETECH IT SOLUTIONS
+
+"NAME": S VENKATESH
+
+"INTERN ID": 
+
+"DOMAIN": 
+
+"DURATION": 4 WEEKS
+
+"MENTOR": NEELA SANTOSH KUMAR
+
 **WeatherMate** is a simple and clean Java console-based application that connects to a public weather REST API and displays live weather details based on the city name provided by the user. This was developed as part of Internship Task 2 from CodeTechIT Solutions.
 
 ## Objective of the Project
