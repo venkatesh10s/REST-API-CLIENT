@@ -95,4 +95,4 @@ java -cp "lib/gson-2.10.1.jar;src" App
 
 ## Example Console Output
 
-
+![Image](https://github.com/user-attachments/assets/574db9dc-c68e-4861-bd8a-704f144c46ae)
